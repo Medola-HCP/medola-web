@@ -20,7 +20,7 @@ const Footer = () => {
               </span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
-              Transforming the way you experience digital solutions with
+              Transforming the way you experience digital solutions for your health with
               innovative technology and elegant design.
             </p>
             <div className="flex space-x-4">

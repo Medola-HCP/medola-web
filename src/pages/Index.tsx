@@ -29,7 +29,7 @@ const Index = () => {
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Experience the future of digital innovation with our cutting-edge
-              platform designed for modern users
+              health tech platform designed for all types users
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button
@@ -60,8 +60,8 @@ const Index = () => {
               Why Choose Medola?
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Discover the features that make our platform the perfect choice
-              for your needs
+              Discover the features that makes the perfect choice
+              for all your health related needs
             </p>
           </div>
 
@@ -86,7 +86,7 @@ const Index = () => {
                 </div>
                 <h3 className="text-xl font-semibold mb-4">Secure & Private</h3>
                 <p className="text-gray-600">
-                  Your data is protected with enterprise-grade security and
+                  Your data is encrypted and protected with enterprise-grade security and
                   privacy measures you can trust.
                 </p>
               </CardContent>
@@ -115,8 +115,8 @@ const Index = () => {
             Download Medola Today
           </h2>
           <p className="text-xl text-purple-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of users who have already transformed their digital
-            experience
+            Join thousands of users who have already transformed their health
+            experience with Medola
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -220,7 +220,7 @@ const Index = () => {
               </div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-purple-600 mb-2">50+</div>
+              <div className="text-4xl font-bold text-purple-600 mb-2">5+</div>
               <div className="text-gray-600">Countries</div>
             </div>
             <div>
